@@ -1,0 +1,5 @@
+{
+  "name": "OptiFile AI Converter by HTNY Studios",
+  "description": "Convert documents and images into AI-optimized text formats (HTML, MD, JSON, TXT) to save tokens and improve LLM processing.",
+  "requestFramePermissions": []
+}
